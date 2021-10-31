@@ -1,7 +1,7 @@
 - 👋 &nbsp; Hello! I’m Lou Vang (rhymes with ["You rang?"](https://youtu.be/sPMKlEwrIs8)). 
 - 👩🏻‍💻 &nbsp; You can view my work at [LouVang.com](https://louvang.com). 
 - 👀 &nbsp; I’m interested in fullstack web development.
-- 🌱 &nbsp; I’m currently learning Vue.
+- 🌱 &nbsp; I’m currently learning TypeScript.
 - 📫 &nbsp; Reach me at louvangdev@gmail.com
 
 
